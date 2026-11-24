@@ -1,1 +1,1 @@
-# byte-me-datathon
+# Early-Warning System for Manufacturing Sector Distress
