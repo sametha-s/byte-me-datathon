@@ -9,10 +9,10 @@ Real output of the three main industrial sectors by MSIC division (2 digit).
 ### Raw dataset variables
 | Variable | Type | Definition |
 |----------|------|------------|
-|`series` | String | Series type; absolute values (`abs`), year-on-year growth (`growth_yoy`), month-on-month growth (`growth_mom`) |
+|`series` | Series | Series type; absolute values (`abs`), year-on-year growth (`growth_yoy`), month-on-month growth (`growth_mom`) |
 |`date` | Date | Date in YYYY-MM-DD (DD set to 01) |
-|`division`| String | 2-digit code (match with MSIC Lookup)|
-| `index` | Float | Quantity of output |
+|`division`| Division | 2-digit code (match with MSIC Lookup)|
+| `index` | Index | Quantity of output |
 
 ### MSIC Lookup
 
