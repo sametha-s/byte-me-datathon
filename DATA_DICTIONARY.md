@@ -25,9 +25,9 @@ Real output of the three main industrial sectors by MSIC division (2 digit).
 | 13 | Manufacture of textiles |
 | 14 | Manufacture of wearing apparel |
 | 15 | Manufacture of leather and related products |
-| 16 | Manufacture of wood and of products of woord and cork, except funiture |
+| 16 | Manufacture of wood and products of wood and cork, except funiture |
 | 17 | Manufacture of paper and paper products |
-| 18 | Priniting and reproduction of recorded media |
+| 18 | Printing and reproduction of recorded media |
 | 19 | Manufacture of coke and refined petroleum products |
 | 20 | Manufacture of chemicals and chemical products |
 | 21 | Manufacture of basic pharmaceutical products and pharmaceutical preparations | 
